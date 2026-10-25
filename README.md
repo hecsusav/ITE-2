@@ -4,7 +4,7 @@
 
 This repository was created to complete a university assignment.
 
-## Step
+## Steps
 
 Step 1: Creating the repository
 Step 2: Adding a python file to the main branch and selecting to create a new branch
